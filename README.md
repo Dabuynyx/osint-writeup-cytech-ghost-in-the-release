@@ -177,7 +177,14 @@ From `config/vault.params`:
 * **Message Digest:** `sha256`
 * **Passphrase:** `Qal4m-R3l3as3!2026`
 
-#### OpenSSL Execution:
+#### Decryption Commands:
+
+First, switch to the PR reference containing the encrypted vault files:
+```bash
+git checkout refs/pull/23/head
+```
+
+Then decrypt using OpenSSL with PBKDF2:
 ```bash
 openssl enc -d -a -aes-256-cbc -pbkdf2 -iter 200000 -md sha256 \
   -pass pass:"Qal4m-R3l3as3!2026" -in vault/config.enc
