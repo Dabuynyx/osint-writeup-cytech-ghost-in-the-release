@@ -14,6 +14,8 @@
 ![Partner](https://img.shields.io/badge/Partner-CYS--TECH-red?style=for-the-badge)
 ![Flag](https://img.shields.io/badge/Flag-Cryptix%7Bv4ult_unl0ck3d_st4g3_tw0_n0t3s_0s1nt_g1st_w1ns%7D-red?style=for-the-badge)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 </div>
 
 ---
@@ -295,3 +297,10 @@ payguard-vault.tar.gz
 | **Inspect raw commit / object by SHA** | `git show <commit-hash>` |
 | **Decrypt AES-256-CBC with PBKDF2** | `openssl enc -d -a -aes-256-cbc -pbkdf2 -iter <N> -md sha256 -pass pass:<P> -in <FILE>` |
 | **Fetch raw remote Gist file** | `curl -s https://gist.githubusercontent.com/<user>/<gist_id>/raw/<filename>` |
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for details.
