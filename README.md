@@ -1,4 +1,6 @@
-# Ghost in the Release — Cytech CTF Write-Up
+# Ghost in the Release — Cryptix CTF Write-Up
+
+> **Event:** Cryptix CTF — Organized by **HTU Cyber Club** in collaboration with **CYS-TECH**
 
 > [!NOTE]
 > Part of the [**Cyrptix CTF OSINT Write-Ups Collection**](https://github.com/Dabuynyx/Cyrptix-CTF-OSINT-write-up).
@@ -7,7 +9,9 @@
 
 ![Category](https://img.shields.io/badge/Category-Git%20Forensics%20%2F%20Cryptography%20%2F%20OSINT-blue?style=for-the-badge&logo=git)
 ![Status](https://img.shields.io/badge/Status-Solved-success?style=for-the-badge&logo=checkmarx)
-![CTF](https://img.shields.io/badge/CTF-Cytech-orange?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
+![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
+![Partner](https://img.shields.io/badge/Partner-CYS--TECH-red?style=for-the-badge)
 ![Flag](https://img.shields.io/badge/Flag-Cryptix%7Bv4ult_unl0ck3d_st4g3_tw0_n0t3s_0s1nt_g1st_w1ns%7D-red?style=for-the-badge)
 
 </div>
