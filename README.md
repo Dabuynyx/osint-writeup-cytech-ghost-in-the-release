@@ -301,6 +301,18 @@ payguard-vault.tar.gz
 
 ---
 
+## ⚖️ Legal Policy & Educational Disclaimer
+
+> [!IMPORTANT]
+> **Educational & Authorized Research Purpose Only.**  
+> All materials, intelligence disclosures, and technical methodologies documented in this repository are for educational, Capture The Flag (CTF) research, and authorized digital forensics training purposes only.
+>
+> The author strictly condemns and prohibits unauthorized computer access or malicious activities. Any testing or execution of these techniques outside consensual, authorized environments is strictly prohibited.
+> 
+> For complete terms, non-liability clauses, and international cyber law compliance disclosures, see the official [**Legal Policy & Disclaimer (DISCLAIMER.md)**](DISCLAIMER.md).
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for details.
