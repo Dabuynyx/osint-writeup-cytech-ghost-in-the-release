@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Category](https://img.shields.io/badge/Category-Git%20Forensics%20%2F%20Cryptography%20%2F%20OSINT-blue?style=for-the-badge&logo=git)
+![Category](https://img.shields.io/badge/Category-OSINT%20with%20DFIR-blue?style=for-the-badge&logo=git)
 ![Status](https://img.shields.io/badge/Status-Solved-success?style=for-the-badge&logo=checkmarx)
 ![CTF](https://img.shields.io/badge/CTF-Cryptix%20CTF-orange?style=for-the-badge)
 ![Organizer](https://img.shields.io/badge/Organizer-HTU%20Cyber%20Club-blue?style=for-the-badge)
@@ -25,7 +25,7 @@
 | Field | Detail |
 | :--- | :--- |
 | **Challenge Name** | Ghost in the Release |
-| **Category** | Git Forensics / Applied Cryptography / OSINT |
+| **Category** | OSINT with DFIR (Git Plumbing & Cryptography) |
 | **Author** | C1ph3r |
 | **Challenge Artifact** | `payguard-vault.tar.gz` |
 | **Final Flag** | `Cryptix{v4ult_unl0ck3d_st4g3_tw0_n0t3s_0s1nt_g1st_w1ns}` |
